@@ -1,0 +1,1 @@
+This is Griffin's first git project!
